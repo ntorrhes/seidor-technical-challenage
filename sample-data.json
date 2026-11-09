@@ -1,0 +1,8 @@
+[
+  { "name": "Ana Clara Mendes", "cpf": "321.654.987-00", "grossSalary": 6850.00, "socialSecurity": 751.99, "dependents": 1 },
+  { "name": "Bruno Oliveira Costa", "cpf": "087.321.654-90", "grossSalary": 4200.00, "socialSecurity": 462.00, "dependents": 0 },
+  { "name": "Camila Ferreira Santos", "cpf": "456.789.123-00", "grossSalary": 3180.00, "socialSecurity": 349.80, "dependents": 2 },
+  { "name": "Diego Martins Rocha", "cpf": "159.753.486-22", "grossSalary": 2450.00, "socialSecurity": 269.50, "dependents": 0 },
+  { "name": "Elisa Rodrigues Lima", "cpf": "963.852.741-11", "grossSalary": 5800.00, "socialSecurity": 638.00, "dependents": 1 },
+  { "name": "Felipe Almeida Souza", "cpf": "741.258.963-55", "grossSalary": 2750.00, "socialSecurity": 302.50, "dependents": 1 }
+]
