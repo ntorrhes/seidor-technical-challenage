@@ -195,3 +195,4 @@ O que será observado na avaliação:
 
 Este projeto atende ao enunciado do teste prático, resolvendo a gestão de funcionários e o cálculo do IRRF de forma funcional, organizada e compatível com os requisitos solicitados.
 # seidor-technical-challenage
+# seidor-technical-challenage
