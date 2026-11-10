@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Arquivos locais e logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Editor e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
