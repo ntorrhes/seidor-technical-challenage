@@ -175,10 +175,43 @@ Arquivo disponível:
 - O projeto foi estruturado de forma organizada para facilitar leitura e manutenção do código.
 - O login e a parte de suporte são de demonstração e não substituem autenticação real.
 
+## Testes automatizados
+
+O projeto inclui uma suíte de testes com React Testing Library + Vitest para validar as regras principais do desafio e os fluxos de interface mais importantes.
+
+### O que está sendo testado
+
+- cálculo de salário base e IRRF;
+- faixa isenta do IRRF;
+- cálculo em faixa tributável;
+- login com validação de e-mail e senha;
+- cadastro de funcionários via modal;
+- filtro por nome e CPF na listagem;
+- renderização dos componentes principais.
+
+### Como executar os testes
+
+```bash
+npm test -- --run
+```
+
+### Verificação do ambiente
+
+A suíte foi configurada com:
+
+- Vitest
+- jsdom
+- @testing-library/react
+- @testing-library/user-event
+- @testing-library/jest-dom
+
+### Resultado esperado
+
+Ao rodar os testes, o projeto deve exibir uma mensagem de sucesso indicando que os testes passaram.
+
 ## Repositório e entrega
 
 O projeto deve ser entregue em um repositório Git público (GitHub, GitLab, Bitbucket, etc.), com o código fonte completo e instruções de execução.
-
 
 ## Critérios avaliados
 
@@ -194,5 +227,4 @@ O que será observado na avaliação:
 ## Conclusão
 
 Este projeto atende ao enunciado do teste prático, resolvendo a gestão de funcionários e o cálculo do IRRF de forma funcional, organizada e compatível com os requisitos solicitados.
-# seidor-technical-challenage
-# seidor-technical-challenage
+
